@@ -1,0 +1,19 @@
++-------------------+-------------------------------------+--------+
+|     Section       |               Critère               | Points |
++-------------------+-------------------------------------+--------+
+| Partie 1          | Réussite des tests                  |  6/6   |
+|                   | Qualité du code                     |  1/1   |
++-------------------+-------------------------------------+--------+
+| Partie 2          | Compréhension de l'arbre Splay      |  2/2   |
+|                   | Résultats expérimentaux             |  2/3   |
+|                   | Justification de l'analyse          |  3/3   |
++-------------------+-------------------------------------+--------+
+| Partie 3          | Réussite des tests                  |  3/3   |
+|                   | Justification de complexité         |  1/1   |
+|                   | Qualité du code                     |  1/1   |
++-------------------+-------------------------------------+--------+
+| Total             |                                     | 19/20  |
++-------------------+-------------------------------------+--------+
+
+Commentaire: 
+Les graphiques des données n'expriment pas les complexités en pire cas.
